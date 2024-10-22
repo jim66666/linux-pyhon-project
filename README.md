@@ -17,3 +17,15 @@ int main(){
   return 0;
 }
 ```
+
+```java
+/** 加法函数
+* 参数a：
+* 参数b:
+* 返回值：
+*/
+public int Add(int a , int b){
+  println(a+b);
+}
+```
+
