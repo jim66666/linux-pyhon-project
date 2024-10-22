@@ -1,0 +1,3 @@
+git config --global user.name "superboluo"
+
+git config --global user.email  2069600638@qq.com
